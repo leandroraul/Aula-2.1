@@ -1,4 +1,5 @@
 # Aula-2.1
 Bruna Marquezine
-Paola Oliveira
+Cleo Pires
 Marina Rui Barbosa
+Scarllet
