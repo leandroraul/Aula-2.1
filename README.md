@@ -3,3 +3,4 @@ Bruna Marquezine
 Cleo Pires
 Marina Rui Barbosa
 Scarllet
+julia
